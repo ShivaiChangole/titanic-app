@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Node
+node_modules/
+dist/
+.env
+
+# VS Code
+.vscode/
